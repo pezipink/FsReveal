@@ -16,15 +16,9 @@
 <small>Ross McKinlay 2015</small>
 
 ***
-## HISTORY A
-![](images/warp.jpg)
-###WHERE NO TYPE HAS GONE BEFORE
-***
-## HISTORY B
-![](images/dlogo.png)
-### THE D MIXIN
-***
+## ! WARNING !
 
+***            
 ### ME
 <br/>
 <br/>
@@ -35,58 +29,69 @@
 
 
 ***
-# WHAT IS A TYPE PROVIDER, REALLY¿
+# WHAT IS A TYPE PROVIDER, REALLY?
 <br/>
 <div class="fragment">
-###A COMPILER EXTENSION / PLUGIN
+###A compiler extension / plugin
 </div>
 <div class="fragment">
-###LETS YOU DO COMPILE TIME THINGS
+###Lets you do compile time things ...
 </div>
 <div class="fragment">
-###OPTIONALLY YOU CAN RETURN SOME TYPES!
+###Optionally, you might return some types!
 </div>
 
 
 ***
 
-## WHAT THIS IS 
+## WHAT IS THE MIXIN PROVIDER 
 ![](images/PRIME.jpg)
+<div class="fragment">
+DOES *MORE* THAN THIS!
+</div>
 
 ***
 <div class="fragment">
-###A Tipi
+###A TIPI!
 </div>
 <div class="fragment">
-###A Meta-Programming Platform
+###A Meta-Programming Infrastructure
 </div>
 <div class="fragment">
-###An Intelligent Code Generator / Injector / Compiler
+###Intelligent Code Generation, Injection and Compilation
 </div>
 <div class="fragment">
 ###A programming assistant!
 </div>
 <div class="fragment">
-###A Wigwam
+###A WIGWAM!
 </div>
+     
+***
+
+##NORMAL TYPE PROVIDERS
+
 
 ***
 
-## ARCHITECTUERE
+##MIXIN WIGWAM-BAM!
 
-show pipeline
+
+***
                  
-## CTFE (TIPI MODE)
-compile time function execution
-no params
-params
+
+## CTFE 
+### *Compile-Tme Function Execution*
+
 ***
      
-## SQUIRRELMIX                                                                                                                                                                      TYPE 
-
+## SQUIRRELMIX
+![](images/squirrelmix.jpg)
+###COMPOSITIONAL DOMAIN SPECIFIC LANGUAGE
 ***
 
 ## THE BRIDGE OF DEATH!
+![](images/death.jpg)
 
 ***
 
@@ -98,20 +103,32 @@ params
 
 ***
 
-## SUPER POWERS & EYEBROWS                                                                                                                                                                      TYPE 
-
+## GOOD VS EVIL  
+![](images/super.jpg)
 
 ***
 
 
 ## PROJECTS AND IDEAS
-
+<div class="fragment">
+###Tickspec 2 - The Revenge
+</div>
+<div class="fragment">
+###camlp4 - all your metas...
+</div>
+<div class="fragment">
+###ERASING-MIXIN TYPE PROVIDERS!
+</div>
+      
 ***
 
 
 
 ## THIS WOULD NOT BE COMPLETE...
 
+## WITHOUT A TYPE PROVIDER TYPE PROVIDER!
+
+***
 #QUESTIONS
 <br/>
 <br/>
