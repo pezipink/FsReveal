@@ -17,6 +17,7 @@
 
 ***
 ## ! WARNING !
+![](images/biohazard.png)
 
 ***            
 ### ME
@@ -71,16 +72,18 @@ DOES *MORE* THAN THIS!
 
 ##NORMAL TYPE PROVIDERS
 
+![](images/arc1.jpg)
 
 ***
 
 ##MIXIN WIGWAM-BAM!
 
+![](images/arc2.jpg)
 
 ***
-                 
+                
 
-## CTFE 
+## 1. CTFE 
 ### *Compile-Tme Function Execution*
 
 ***
@@ -90,16 +93,24 @@ DOES *MORE* THAN THIS!
 ###COMPOSITIONAL DOMAIN SPECIFIC LANGUAGE
 ***
 
+	let x = 10s"s"
+
+***
+
 ## THE BRIDGE OF DEATH!
 ![](images/death.jpg)
 
 ***
 
-## FULL
+## 2. FULL
+
+![](images/full.jpg)
 
 ***
 
-## INJECTION
+## 3. INJECTION
+
+![](images/html-injection.png)
 
 ***
 
@@ -121,8 +132,6 @@ DOES *MORE* THAN THIS!
 </div>
       
 ***
-
-
 
 ## THIS WOULD NOT BE COMPLETE...
 
